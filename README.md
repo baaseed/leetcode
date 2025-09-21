@@ -11,6 +11,6 @@ This repository contains my solutions to LeetCode problems in C++.
 ## How to use
 
 - Each file is named as `XXX_problem_name.cpp` (XXX = problem number)
-- Each file may contain a short explanation and test cases where applicable.
+
 
 
